@@ -5,8 +5,7 @@
 - Reach me on Twitter @suryolho
 
 
-[Game project](https://img.youtube.com/vi/l6vMxbXwk78/0.jpg)](https://www.youtube.com/watch?v=l6vMxbXwk78)
-
+[![Game project](https://img.youtube.com/vi/l6vMxbXwk78/0.jpg)](https://www.youtube.com/watch?v=l6vMxbXwk78)
 
 <!---
 suryolho/suryolho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
