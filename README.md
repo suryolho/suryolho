@@ -5,7 +5,7 @@
 - Reach me on Twitter @suryolho
 
 
-[Game project](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=l6vMxbXwk78)
+[Game project](https://img.youtube.com/vi/l6vMxbXwk78/0.jpg)](https://www.youtube.com/watch?v=l6vMxbXwk78)
 
 
 <!---
